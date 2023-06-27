@@ -1,0 +1,13 @@
+.card_body{
+    text-align: center;
+    max-width: 64rem;
+    width: 90%;
+    margin: 3rem auto auto;
+    background-color: white;
+    border-radius: 14px;
+    padding: 0rem;
+}
+
+.card_body li{
+    list-style: none;
+}

@@ -1,0 +1,39 @@
+.meal_form{
+    text-align: center;
+    width: 50%;
+    margin: 10rem auto auto;
+    position: relative;
+    background-color: #b4a8a8ce;
+    color: #000000;
+    border-radius: 14px;
+    padding: 1rem;
+    box-shadow: 0 1px 18px 10px rgba(0,0,0,.25);
+    justify-content: center;
+    font-size: large;
+    font-weight: bold;
+    line-height: 40px;
+}
+
+.meal_form input{
+    border-radius: 5px;
+    background-color: #d3cbcbbb;
+    border: 1px solid #8a2b06;
+}
+
+.meal_form button{
+    font: inherit;
+    cursor: pointer;
+    background-color: #8a2b06;
+    border: 1px solid #8a2b06;
+    color: #fff;
+    padding: 0.25rem 2rem;
+    border-radius: 20px;
+    font-weight: 700;
+    margin-top: 20px;
+}
+
+.meal_form button:hover{
+    color: #000000;
+    background-color: #7e2908d8;
+    border: #8a2b06;
+}
